@@ -1,0 +1,5 @@
+{
+  "name": "圣诞树 - Holiday Magic",
+  "description": "A creative Three.js Christmas tree experience with MediaPipe hand gesture controls.",
+  "requestFramePermissions": ["camera"]
+}
